@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\jirka\\TheCSharpAcademy\\ConsoleApps\\Math Game\\ConsoleApps.csproj": {}
+    "C:\\Users\\jirka\\TheCSharpAcademy\\ConsoleApps\\Math Game\\ConsoleApps.csproj": {}
   },
   "projects": {
-    "c:\\Users\\jirka\\TheCSharpAcademy\\ConsoleApps\\Math Game\\ConsoleApps.csproj": {
+    "C:\\Users\\jirka\\TheCSharpAcademy\\ConsoleApps\\Math Game\\ConsoleApps.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\jirka\\TheCSharpAcademy\\ConsoleApps\\Math Game\\ConsoleApps.csproj",
+        "projectUniqueName": "C:\\Users\\jirka\\TheCSharpAcademy\\ConsoleApps\\Math Game\\ConsoleApps.csproj",
         "projectName": "ConsoleApps",
-        "projectPath": "c:\\Users\\jirka\\TheCSharpAcademy\\ConsoleApps\\Math Game\\ConsoleApps.csproj",
+        "projectPath": "C:\\Users\\jirka\\TheCSharpAcademy\\ConsoleApps\\Math Game\\ConsoleApps.csproj",
         "packagesPath": "C:\\Users\\jirka\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\jirka\\TheCSharpAcademy\\ConsoleApps\\Math Game\\obj\\",
+        "outputPath": "C:\\Users\\jirka\\TheCSharpAcademy\\ConsoleApps\\Math Game\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

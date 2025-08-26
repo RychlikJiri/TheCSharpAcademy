@@ -26,3 +26,4 @@ c:\Users\jirka\TheCSharpAcademy\ConsoleApps\Math Game\obj\Debug\net9.0\refint\Co
 c:\Users\jirka\TheCSharpAcademy\ConsoleApps\Math Game\obj\Debug\net9.0\ConsoleApps.pdb
 c:\Users\jirka\TheCSharpAcademy\ConsoleApps\Math Game\obj\Debug\net9.0\ConsoleApps.genruntimeconfig.cache
 c:\Users\jirka\TheCSharpAcademy\ConsoleApps\Math Game\obj\Debug\net9.0\ref\ConsoleApps.dll
+c:\Users\jirka\TheCSharpAcademy\ConsoleApps\Math Game\obj\Debug\net9.0\ConsoleApps.sourcelink.json
