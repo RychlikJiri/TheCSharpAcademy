@@ -1,0 +1,28 @@
+c:\Users\jirka\TheCSharpAcademy\ConsoleApps\bin\Debug\net9.0\ConsoleApps.exe
+c:\Users\jirka\TheCSharpAcademy\ConsoleApps\bin\Debug\net9.0\ConsoleApps.deps.json
+c:\Users\jirka\TheCSharpAcademy\ConsoleApps\bin\Debug\net9.0\ConsoleApps.runtimeconfig.json
+c:\Users\jirka\TheCSharpAcademy\ConsoleApps\bin\Debug\net9.0\ConsoleApps.dll
+c:\Users\jirka\TheCSharpAcademy\ConsoleApps\bin\Debug\net9.0\ConsoleApps.pdb
+c:\Users\jirka\TheCSharpAcademy\ConsoleApps\obj\Debug\net9.0\ConsoleApps.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jirka\TheCSharpAcademy\ConsoleApps\obj\Debug\net9.0\ConsoleApps.AssemblyInfoInputs.cache
+c:\Users\jirka\TheCSharpAcademy\ConsoleApps\obj\Debug\net9.0\ConsoleApps.AssemblyInfo.cs
+c:\Users\jirka\TheCSharpAcademy\ConsoleApps\obj\Debug\net9.0\ConsoleApps.csproj.CoreCompileInputs.cache
+c:\Users\jirka\TheCSharpAcademy\ConsoleApps\obj\Debug\net9.0\ConsoleApps.dll
+c:\Users\jirka\TheCSharpAcademy\ConsoleApps\obj\Debug\net9.0\refint\ConsoleApps.dll
+c:\Users\jirka\TheCSharpAcademy\ConsoleApps\obj\Debug\net9.0\ConsoleApps.pdb
+c:\Users\jirka\TheCSharpAcademy\ConsoleApps\obj\Debug\net9.0\ConsoleApps.genruntimeconfig.cache
+c:\Users\jirka\TheCSharpAcademy\ConsoleApps\obj\Debug\net9.0\ref\ConsoleApps.dll
+c:\Users\jirka\TheCSharpAcademy\ConsoleApps\Math Game\bin\Debug\net9.0\ConsoleApps.exe
+c:\Users\jirka\TheCSharpAcademy\ConsoleApps\Math Game\bin\Debug\net9.0\ConsoleApps.deps.json
+c:\Users\jirka\TheCSharpAcademy\ConsoleApps\Math Game\bin\Debug\net9.0\ConsoleApps.runtimeconfig.json
+c:\Users\jirka\TheCSharpAcademy\ConsoleApps\Math Game\bin\Debug\net9.0\ConsoleApps.dll
+c:\Users\jirka\TheCSharpAcademy\ConsoleApps\Math Game\bin\Debug\net9.0\ConsoleApps.pdb
+c:\Users\jirka\TheCSharpAcademy\ConsoleApps\Math Game\obj\Debug\net9.0\ConsoleApps.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jirka\TheCSharpAcademy\ConsoleApps\Math Game\obj\Debug\net9.0\ConsoleApps.AssemblyInfoInputs.cache
+c:\Users\jirka\TheCSharpAcademy\ConsoleApps\Math Game\obj\Debug\net9.0\ConsoleApps.AssemblyInfo.cs
+c:\Users\jirka\TheCSharpAcademy\ConsoleApps\Math Game\obj\Debug\net9.0\ConsoleApps.csproj.CoreCompileInputs.cache
+c:\Users\jirka\TheCSharpAcademy\ConsoleApps\Math Game\obj\Debug\net9.0\ConsoleApps.dll
+c:\Users\jirka\TheCSharpAcademy\ConsoleApps\Math Game\obj\Debug\net9.0\refint\ConsoleApps.dll
+c:\Users\jirka\TheCSharpAcademy\ConsoleApps\Math Game\obj\Debug\net9.0\ConsoleApps.pdb
+c:\Users\jirka\TheCSharpAcademy\ConsoleApps\Math Game\obj\Debug\net9.0\ConsoleApps.genruntimeconfig.cache
+c:\Users\jirka\TheCSharpAcademy\ConsoleApps\Math Game\obj\Debug\net9.0\ref\ConsoleApps.dll
