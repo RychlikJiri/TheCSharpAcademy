@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lBbMRPtCGuE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jirka\\TheCSharpAcademy\\ConsoleApps\\HabitLogger\\HabitLogger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jirka\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\jirka\\.nuget\\packages\\system.data.sqlite\\2.0.1\\system.data.sqlite.2.0.1.nupkg.sha512",
+    "C:\\Users\\jirka\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}
