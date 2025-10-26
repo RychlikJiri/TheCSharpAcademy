@@ -1,0 +1,15 @@
+d:\TheCSharpAcademy\ConsoleApps\DrinksInfo\bin\Debug\net9.0\DrinksInfo.exe
+d:\TheCSharpAcademy\ConsoleApps\DrinksInfo\bin\Debug\net9.0\DrinksInfo.deps.json
+d:\TheCSharpAcademy\ConsoleApps\DrinksInfo\bin\Debug\net9.0\DrinksInfo.runtimeconfig.json
+d:\TheCSharpAcademy\ConsoleApps\DrinksInfo\bin\Debug\net9.0\DrinksInfo.dll
+d:\TheCSharpAcademy\ConsoleApps\DrinksInfo\bin\Debug\net9.0\DrinksInfo.pdb
+d:\TheCSharpAcademy\ConsoleApps\DrinksInfo\obj\Debug\net9.0\DrinksInfo.GeneratedMSBuildEditorConfig.editorconfig
+d:\TheCSharpAcademy\ConsoleApps\DrinksInfo\obj\Debug\net9.0\DrinksInfo.AssemblyInfoInputs.cache
+d:\TheCSharpAcademy\ConsoleApps\DrinksInfo\obj\Debug\net9.0\DrinksInfo.AssemblyInfo.cs
+d:\TheCSharpAcademy\ConsoleApps\DrinksInfo\obj\Debug\net9.0\DrinksInfo.csproj.CoreCompileInputs.cache
+d:\TheCSharpAcademy\ConsoleApps\DrinksInfo\obj\Debug\net9.0\DrinksInfo.sourcelink.json
+d:\TheCSharpAcademy\ConsoleApps\DrinksInfo\obj\Debug\net9.0\DrinksInfo.dll
+d:\TheCSharpAcademy\ConsoleApps\DrinksInfo\obj\Debug\net9.0\refint\DrinksInfo.dll
+d:\TheCSharpAcademy\ConsoleApps\DrinksInfo\obj\Debug\net9.0\DrinksInfo.pdb
+d:\TheCSharpAcademy\ConsoleApps\DrinksInfo\obj\Debug\net9.0\DrinksInfo.genruntimeconfig.cache
+d:\TheCSharpAcademy\ConsoleApps\DrinksInfo\obj\Debug\net9.0\ref\DrinksInfo.dll

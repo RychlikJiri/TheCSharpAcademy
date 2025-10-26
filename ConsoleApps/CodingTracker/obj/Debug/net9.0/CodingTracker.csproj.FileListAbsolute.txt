@@ -1,0 +1,15 @@
+D:\TheCSharpAcademy\ConsoleApps\CodingTracker\bin\Debug\net9.0\CodingTracker.exe
+D:\TheCSharpAcademy\ConsoleApps\CodingTracker\bin\Debug\net9.0\CodingTracker.deps.json
+D:\TheCSharpAcademy\ConsoleApps\CodingTracker\bin\Debug\net9.0\CodingTracker.runtimeconfig.json
+D:\TheCSharpAcademy\ConsoleApps\CodingTracker\bin\Debug\net9.0\CodingTracker.dll
+D:\TheCSharpAcademy\ConsoleApps\CodingTracker\bin\Debug\net9.0\CodingTracker.pdb
+D:\TheCSharpAcademy\ConsoleApps\CodingTracker\obj\Debug\net9.0\CodingTracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\TheCSharpAcademy\ConsoleApps\CodingTracker\obj\Debug\net9.0\CodingTracker.AssemblyInfoInputs.cache
+D:\TheCSharpAcademy\ConsoleApps\CodingTracker\obj\Debug\net9.0\CodingTracker.AssemblyInfo.cs
+D:\TheCSharpAcademy\ConsoleApps\CodingTracker\obj\Debug\net9.0\CodingTracker.csproj.CoreCompileInputs.cache
+D:\TheCSharpAcademy\ConsoleApps\CodingTracker\obj\Debug\net9.0\CodingTracker.sourcelink.json
+D:\TheCSharpAcademy\ConsoleApps\CodingTracker\obj\Debug\net9.0\CodingTracker.dll
+D:\TheCSharpAcademy\ConsoleApps\CodingTracker\obj\Debug\net9.0\refint\CodingTracker.dll
+D:\TheCSharpAcademy\ConsoleApps\CodingTracker\obj\Debug\net9.0\CodingTracker.pdb
+D:\TheCSharpAcademy\ConsoleApps\CodingTracker\obj\Debug\net9.0\CodingTracker.genruntimeconfig.cache
+D:\TheCSharpAcademy\ConsoleApps\CodingTracker\obj\Debug\net9.0\ref\CodingTracker.dll

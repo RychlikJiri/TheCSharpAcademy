@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YIFwVS6mPdY=",
+  "success": true,
+  "projectFilePath": "D:\\TheCSharpAcademy\\ConsoleApps\\OOP\\TCSA.OOP.LibraryManagementSystem\\TCSA.OOP.LibraryManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jirka\\.nuget\\packages\\spectre.console\\0.51.1\\spectre.console.0.51.1.nupkg.sha512"
+  ],
+  "logs": []
+}
